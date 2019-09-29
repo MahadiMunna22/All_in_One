@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All Sensor in One</string>
+
+    <string-array name="sensorNames">
+        <item>Proximity</item>
+        <item>Accelerometer</item>
+        <item>Gyroscope</item>
+        <item>Shake_Detector</item>
+    </string-array>
+</resources>
